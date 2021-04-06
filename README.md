@@ -1,2 +1,2 @@
 # Performance-Monitor
-Monitoring query performance for UK CO2 emissions through a public API 
+Monitoring query performance for UK CO2 emissions and the the GrünstromIndex (green electricity index) in Berlin through a public API 
